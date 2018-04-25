@@ -1,0 +1,23 @@
+body{
+    background:black;
+    background-image:url("ufo-image.jpg");
+    color:gray;
+}
+.form-control {
+    /* display: inline; */
+    width: 300px;
+    margin-top: 50px;
+
+
+
+  }
+  
+#title{
+    color:yellowgreen;
+    float:right;
+}
+
+.btn{
+    background-color:#79B6E0;
+}
+
